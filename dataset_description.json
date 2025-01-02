@@ -1,0 +1,21 @@
+{
+  "Acknowledgements": "We thank: Atsushi Takahashi, Steve Shannon, and the Athinoula A. Martinos Imaging Center at the McGovern Institute at MIT for technical and administrative support; Kirsten Lydic for technical support; and members of the Saxe and Kanwisher labs for feedback and assistance with data collection.",
+  "Authors": [
+    "Frederik S. Kamps",
+    "Emily M. Chen",
+    "Nancy Kanwisher",
+    "Rebecca Saxe"
+  ],
+  "BIDSVersion": "1.4.1",
+  "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "Funding": [
+    "NIH grant R01HD103847 to R.S."
+  ],
+  "HowToAcknowledge": "Please cite the following preprint or the forthcoming publication: Kamps, F. S., Chen, E. M., Kanwisher, N., & Saxe, R. (2024). Representation of navigational affordances and ego-motion in the occipital place area. bioRxiv, 2024-04.",
+  "License": "CC0",
+  "Name": "MRI data from 17 adults viewing navigational affordances and ego-motion in dynamic scenes",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ]
+}

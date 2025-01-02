@@ -1,0 +1,13 @@
+filename	acq_time	operator	randstr	MotionExclusion	MeanFD	RepeatSubjectExclusion	OtherExclusion	OtherExclusionReason
+anat/sub-SAXANA1008_T1w.nii.gz	2022-08-10T13:18:12	freddy	99b868cc	FALSE	n/a	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-001_bold.nii.gz	2022-08-10T13:27:03	freddy	adaf4c20	FALSE	0.11824603520198300	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-002_bold.nii.gz	2022-08-10T13:35:47	freddy	d27d21c9	FALSE	0.11138412114224100	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-LOC_run-001_bold.nii.gz	2022-08-10T13:44:29	freddy	a8d2aeec	FALSE	0.09684690688172040	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-003_bold.nii.gz	2022-08-10T13:49:02	freddy	21786274	FALSE	0.17114461366379300	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-004_bold.nii.gz	2022-08-10T13:57:23	freddy	996b9df3	FALSE	0.09922531446250000	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-LOC_run-002_bold.nii.gz	2022-08-10T14:06:16	freddy	c1bfbad0	FALSE	0.11772844500000000	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-005_bold.nii.gz	2022-08-10T14:12:18	freddy	4a5ba26d	FALSE	0.1878436008620690	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-006_bold.nii.gz	2022-08-10T14:21:12	freddy	43c91a17	FALSE	0.14538773260344800	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-LOC_run-003_bold.nii.gz	2022-08-10T14:29:53	freddy	5a54ebae	FALSE	0.139418909821656	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-007_bold.nii.gz	2022-08-10T14:35:48	freddy	f649d697	FALSE	0.13120914070689700	FALSE	FALSE	n/a
+func/sub-SAXANA1008_task-EXP_run-008_bold.nii.gz	2022-08-10T14:44:56	freddy	5bb32d64	FALSE	0.13755700269396500	FALSE	FALSE	n/a
